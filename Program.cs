@@ -12,7 +12,7 @@ namespace SnakeAndLadder
         {
             Console.WriteLine(" Welcome To Snake And Ladder Problem ");
             SnakeLadder snakeAndLadder = new SnakeLadder();
-            snakeAndLadder.DieRolled();
+            snakeAndLadder.StartGame();
             Console.ReadLine();
         }
         
